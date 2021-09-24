@@ -1,0 +1,33 @@
+/* Container needed to position the button. Adjust the width as needed */
+.mapcontainer {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+  }
+  
+  /* Make the image responsive */
+  .mapcontainer img {
+    width: 100%;
+    height: auto;
+  }
+
+/* Style the button and place it in the middle of the container/image */
+.mapcontainer .btn {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .mapcontainer .btn:hover {
+    background-color: black;
+  }
