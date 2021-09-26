@@ -3,11 +3,8 @@ import {React, useEffect} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import sushiboat from '../../static/sushiboat.jpg';
 import '../Menu/index.css';
-import Appetizers from '../../components/appetizers';
-import Drinks from '../../components/drinks';
-import Kitchen from '../../components/kitchen';
-import Sushi from '../../components/sushi';
-import Desserts from '../../components/desserts';
+import Reg_item from '../../components/reg_item'
+import app_kitchen_json from '../../static/appetizers_kitchen.json'
 
 
 import { 
@@ -69,27 +66,27 @@ const MenuPage = () => {
                     <Col style={{textAlign:'center'}}>
                         <button className="accordion"> APPETIZERS  <ChevronDown32 /></button>
                         <div class="panel">
-                            <Appetizers />
+                            <Reg_item prop={app_kitchen_json}/>
                         </div>
 
                         <button class="accordion"> SUSHI & SASHIMI  <ChevronDown32 /></button>
                         <div class="panel">
-                            <Sushi />
+                            
                         </div>
 
                         <button class="accordion"> KITCHEN FOOD  <ChevronDown32 /></button>
                         <div class="panel">
-                            <Kitchen />
+                            
                         </div>
 
                         <button class="accordion"> DRINKS  <ChevronDown32 /></button>
                         <div class="panel">
-                            <Drinks />
+                           
                         </div>
 
                         <button class="accordion"> DESSERTS  <ChevronDown32 /></button>
                         <div class="panel">
-                            <Desserts />
+                           
                         </div>
                     </Col>
                 </Row>

@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "name": "Age Tofu",
+            "price": "$7",
+            "description": "(6 pieces) Deep fried bean curd with sauce"
+        },
+        {
+            "name": "Edamame",
+            "price": "$5.50",
+            "description": "Steamed salted soy bean with pod"
+        },
+        {
+            "name": "Harumaki",
+            "price": "$5",
+            "description": "(4 pieces) Fried Japanese vegetable spring rolls"
+        },
+        {
+            "name": "Croquette",
+            "price": "$6.50",
+            "description": "(3 pieces) Fried vegetable patty"
+        }
+    ]
+}
