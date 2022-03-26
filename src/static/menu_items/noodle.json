@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "name": "Vegetable Udon or Soba",
+            "price": "$13.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken Udon or Soba",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Beef Udon or Soba",
+            "price": "$15.50",
+            "description": ""
+        },
+        {
+            "name": "Shrimp Udon or Soba",
+            "price": "$15.50",
+            "description": ""
+        },
+        {
+            "name": "Combination Udon or Soba",
+            "price": "$17.50",
+            "description": "Shrimp, Chicken, and Beef"
+        },
+        {
+            "name": "Plain Udon or Soba",
+            "price": "$14.50",
+            "description": ""
+        }
+    ]
+}

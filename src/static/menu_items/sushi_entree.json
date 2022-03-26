@@ -1,0 +1,84 @@
+{
+    "items": [
+        {
+            "name": "Tokyo Boat For 2",
+            "price": "$43.50",
+            "description": "CC: Sashimi, sushi, california roll and dragon roll"
+        },
+        {
+            "name": "Chirashi",
+            "price": "$20.50",
+            "description": "CC: sashimi with sushi rice"
+        },
+        {
+            "name": "Sake Don",
+            "price": "$20.50",
+            "description": "Sliced raw Salmon with sushi rice"
+        },
+        {
+            "name": "Tekka Don",
+            "price": "$20.50",
+            "description": "Sliced raw Tuna with rice"
+        },
+        {
+            "name": "Unagi Don",
+            "price": "$20.50",
+            "description": "Broiled slices of eel tuna with rice"
+        },
+        {
+            "name": "Sushi Regular",
+            "price": "$19.50",
+            "description": "CC: 8 pcs of sushi & tuna roll"
+        },
+        {
+            "name": "Sushi Deluxe",
+            "price": "$21.50",
+            "description": "CC: 10 pcs of sushi & california roll"
+        },
+        {
+            "name": "Sushi & Sashimi Combo",
+            "price": "$27.50",
+            "description": "CC: 8 pcs of sushi & 10 pieces of sashimi"
+        },
+        {
+            "name": "Sashimi Platter",
+            "price": "$27.50",
+            "description": "CC: 18 pcs of sashimi and bowl of rice"
+        },
+        {
+            "name": " \"Four\" in Love ",
+            "price": "$26.50",
+            "description": "4 pcs tuna sushi, 4 pcs salmon sushi and Rainbow roll"
+        },
+        {
+            "name": "4x4 Rock N Roll",
+            "price": "$25.50",
+            "description": "4 pcs tuna sushi, 4 pcs yellowtail sushi, Rock N Roll roll"
+        },
+        {
+            "name": "Tuna Lover",
+            "price": "$20.50",
+            "description": "Tuna Avacado Roll, Spicy Tuna Roll, and 4 pcs tuna sushi"
+        },
+        {
+            "name": "Eel Lover",
+            "price": "$20.50",
+            "description": "Eel Avacado Roll, Eel Cucumber roll, and 4 pcs Eel sushi"
+        },
+        {
+            "name": "Salmon Lover",
+            "price": "$20.50",
+            "description": "Spicy salmon roll, Alaska roll, and 4pcs salmon sushi"
+        },
+        {
+            "name": "Mt.Fuji Sushi for 2",
+            "price": "$43.50",
+            "description": "Rainbow Roll, Spicy Tuna Roll, CC: 16 pcs of sushi (chef choice)"
+        },
+        {
+            "name": "Mt.Fuji Sushi & Sashimi for 2",
+            "price": "$53.50",
+            "description": "Rainbow Roll, Spicy Tuna Roll, CC: 10 pcs of sushi and 12 pcs sashimi(chef choice)"
+        }
+    ]
+}

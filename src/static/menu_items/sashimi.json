@@ -1,0 +1,174 @@
+{
+    "items": [
+        {
+            "name": "Salmon (Sake)",
+            "price_su": "$3.00",
+            "price_sa": "$6.50"
+        },
+        {
+            "name": "Tuna (Maguro)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "White Tuna",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Yellowtail (Hamachi)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Eel (Unagi)",
+            "price_su": "$3.00",
+            "price_sa": "$6.00"
+        },
+        {
+            "name": "Fluke (Hirame)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Mackerel (Saba)",
+            "price_su": "$3.00",
+            "price_sa": "$6.00"
+        },
+        {
+            "name": "Red Snapper (Tai)",
+            "price_su": "$3.00",
+            "price_sa": "$6.00"
+        },
+        {
+            "name": "Sea Bass",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Smoked Salmon",
+            "price_su": "$3.00",
+            "price_sa": "$6.00"
+        },
+        {
+            "name": "Uni (Sea Urchin)",
+            "price_su": "$5.00",
+            "price_sa": "$10.00"
+        },
+        {
+            "name": "Ikura (Salmon Roe)",
+            "price_su": "$5.00",
+            "price_sa": "$10.00"
+        },
+        {
+            "name": "Massago (Caviar)",
+            "price_su": "$3.00",
+            "price_sa": "$6.00"
+        },
+        {
+            "name": "Tobiko (Red / Black)",
+            "price_su": "$3.50",
+            "price_sa": "$6.50"
+        },
+        {
+            "name": "Crab Stick (Kani)",
+            "price_su": "$2.50",
+            "price_sa": "$5.00"
+        },
+        {
+            "name": "Tamago (Egg Custard)",
+            "price_su": "$2.00",
+            "price_sa": "$4.00"
+        },
+        {
+            "name": "Inari (Bean Curd Skin)",
+            "price_su": "$2.00",
+            "price_sa": "$4.00"
+        },
+        {
+            "name": "Shrimp (Ebi)",
+            "price_su": "$2.50",
+            "price_sa": "$5.00"
+        },
+        {
+            "name": "Sweet Shrimp (Amaebi)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Surf Clam (Hakkigai)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Scallop (Hotate)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Baby Octupus (Idako)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Octopus (Tako)",
+            "price_su": "$3.50",
+            "price_sa": "$7.00"
+        },
+        {
+            "name": "Squid (Ika)",
+            "price_su": "---",
+            "price_sa": "$7.00 (2)"
+        },
+        {
+            "name": "Spicy Scallop",
+            "price_su": "---",
+            "price_sa": "$8.00 (2)"
+        },
+        {
+            "name": "Spicy Kings Crab",
+            "price_su": "---",
+            "price_sa": "$8.00 (2)"
+        },
+        {
+            "name": "Spicy Tuna",
+            "price_su": "---",
+            "price_sa": "$7.00 (2)"
+        },
+        {
+            "name": "Spicy Salmon",
+            "price_su": "---",
+            "price_sa": "$7.00 (2)"
+        },
+        {
+            "name": "Spicy Yellowtail",
+            "price_su": "---",
+            "price_sa": "$7.00 (2)"
+        },
+        {
+            "name": "Fatty Tuna (Toro)",
+            "price_su": "---",
+            "price_sa": "S.P"
+        },
+        {
+            "name": "Giant Clam",
+            "price_su": "---",
+            "price_sa": "S.P"
+        },
+        {
+            "name": "Live Scallop",
+            "price_su": "---",
+            "price_sa": "S.P"
+        },
+        {
+            "name": "Aji",
+            "price_su": "---",
+            "price_sa": "S.P"
+        },
+        {
+            "name": "Live Clam/Oyster",
+            "price_su": "---",
+            "price_sa": "S.P"
+        }
+    ]
+}

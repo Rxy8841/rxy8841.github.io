@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "name": "Roll Roll A Boat",
+            "price": "$42.50",
+            "description": "Rainbow Roll (8), Dragon Roll (8), Sweet Heart Roll (8), House Maki (5)",
+            "description2": "Spicy tuna Roll (6), California Roll (6)"
+        },
+        {
+            "name": "Hot & Spicy Boat",
+            "price": "$42.50",
+            "description": "Titanic Toll (8), Mt. Rocky Maki (6), Sunshine Maki (6), House Maki (5)",
+            "description2": "Tempura Maki (5), Spicy tuna Roll (6)"
+        },
+        {
+            "name": "Just 2 Good",
+            "price": "$42.50",
+            "description": "Appetizer 2pcs (Gyoza, Vege Gyoza, Harumaki)",
+            "description2": "Sushi 2pcs (Tuna, Salmon, Eel",
+            "description3": "Shrimp Tempura Roll (5), Rock N Roll (6), California Roll (6)",
+            "description4": "A $10 value Roll (Pick Your Own)"
+        },
+        {
+            "name": "Sushi & Roll Combo",
+            "price": "$42.50",
+            "description": "Tokyo Roll (8), Rock N Roll (6), Shrimp Tempura (5), California Roll (6)",
+            "description2": "Sushi 2pcs (Tuna, Salmon, Eel, Shrimp)"
+        }
+    ]
+}

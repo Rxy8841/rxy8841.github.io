@@ -1,0 +1,59 @@
+{
+    "items": [
+        {
+            "name": "Tofu",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Steak",
+            "price": "$18.50",
+            "description": ""
+        },
+        {
+            "name": "Shrimp",
+            "price": "$18.50",
+            "description": ""
+        },
+        {
+            "name": "Salmon",
+            "price": "$19.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken & Shrimp",
+            "price": "$16.50",
+            "description": ""
+        },
+        {
+            "name": "Steak & Shrimp",
+            "price": "$18.50",
+            "description": ""
+        },
+        {
+            "name": "Steak & Chicken",
+            "price": "$16.50",
+            "description": ""
+        },
+        {
+            "name": "Seafood (Pick 2)",
+            "price": "$22.50",
+            "description": "Pick 2 (Shrimp / Scallop / Salmon / Crabmeat / Squid)"
+        },
+        {
+            "name": "Seafood (Pick 3)",
+            "price": "$25.50",
+            "description": "Pick 3 (Shrimp / Scallop / Salmon / Crabmeat / Squid)"
+        },
+        {
+            "name": "Beef Negamaki",
+            "price": "$19.50",
+            "description": "Thinly cut Rib-eye steak, wrapped around scallion."
+        }
+    ]
+}
