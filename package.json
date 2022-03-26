@@ -2,7 +2,7 @@
   "name": "texpress",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rxy8841.github.io",
+  "homepage": "https://Rxy8841.github.io/texpress",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
