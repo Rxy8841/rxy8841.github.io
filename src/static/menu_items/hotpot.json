@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "name": "H1. Tempura Udon",
+            "price": "$16.50",
+            "description": "Noodle w/ broth, tofu, vegs, side of shrimp, and veg tempura."
+        },
+        {
+            "name": "H2. Nabeyaki Udon",
+            "price": "$16.50",
+            "description": "Noodle w/ broth, tofu, vegs, chicken, and shrimp."
+        },
+        {
+            "name": "H3. Udon / Soba / Sukiyaki",
+            "price": "$12.50",
+            "description": "Noodle with vegs, tofu, and broth. Add chicken, beef, shrimp ($3, $4, $5)."
+        },
+        {
+            "name": "H4. Yosenabe",
+            "price": "$17.50",
+            "description": "Noodle with seafood, vegs, tofu, and broth."
+        },
+        {
+            "name": "H5. Crispy Duck",
+            "price": "$17.50",
+            "description": "Noodle with duck, veg, and broth."
+        },
+        {
+            "name": "H6. Fish Ball",
+            "price": "$16.50",
+            "description": "Noodle with fish ball, vegs, and broth."
+        }
+    ]
+}

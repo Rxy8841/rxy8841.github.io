@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "name": "House Green Salad",
+            "price": "$3",
+            "description": "Lettuce, carrot, and cabbage with dressing."
+        },
+        {
+            "name": "Seaweed Salad",
+            "price": "$5.50",
+            "description": "Marinated seaweed and sesame seed."
+        },
+        {
+            "name": "Spicy Salad",
+            "price": "$6.50",
+            "description": "Green salad, cucumber, avacado, and spicy seaweed."
+        },
+        {
+            "name": "Tokyo Salad",
+            "price": "$6.50",
+            "description": "Green salad with cucumber, avacado, and seaweed."
+        },
+        {
+            "name": "Avacado Salad",
+            "price": "$6.50",
+            "description": "Green salad with a bed of avacado on top."
+        },
+        {
+            "name": "Spicy Kani Salad",
+            "price": "$7.50",
+            "description": "Crabstick mixed with spicy mayo and crunchy on top of cucumber."
+        },
+        {
+            "name": "Grilled Chicken Salad",
+            "price": "$9.50",
+            "description": "Grilled chicken on green salad with dressing."
+        },
+        {
+            "name": "Salmon or Shrimp Salad",
+            "price": "$12.50",
+            "description": "Grilled Salmon / Shrimp with caviar and avacado on green salad."
+        },
+        {
+            "name": "Seafood Salad",
+            "price": "$13.50",
+            "description": "Sashimi and crabstick on green salad."
+        },
+        {
+            "name": "Tuna and Avacado Salad",
+            "price": "$13.50",
+            "description": "Seared Tuna, avacado, caviar, and scallion on green salad."
+        }
+    ]
+}

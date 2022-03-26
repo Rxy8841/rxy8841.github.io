@@ -1,0 +1,144 @@
+{
+    "items": [
+        {
+            "name": "California Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Salmon Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Tuna Roll",
+            "price": "$6.50",
+            "description": ""
+        },
+        {
+            "name": "Yellowtail Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Eel Cucumber Roll",
+            "price": "$7.00",
+            "description": ""
+        },
+        {
+            "name": "Tuna and Avacado Roll",
+            "price": "$7.00",
+            "description": ""
+        },
+        {
+            "name": "White Tuna and Avacado Roll",
+            "price": "$7.00",
+            "description": ""
+        },
+        {
+            "name": "Salmon and Avacado Roll",
+            "price": "$7.00",
+            "description": ""
+        },
+        {
+            "name": "Salmon Skin Roll",
+            "price": "$7.00",
+            "description": ""
+        },
+        {
+            "name": "Shrimp and Asparagus",
+            "price": "$8.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken Tempura Roll",
+            "price": "$7.00",
+            "description": ""
+        },
+        {
+            "name": "Shrimp Tempura Roll",
+            "price": "$7.50",
+            "description": ""
+        },
+        {
+            "name": "Spicy California Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Spicy Salmon Roll",
+            "price": "$6.50",
+            "description": ""
+        },
+        {
+            "name": "Spicy Tuna Roll",
+            "price": "$6.50",
+            "description": ""
+        },
+        {
+            "name": "Spicy Yellowtail Roll",
+            "price": "$6.50",
+            "description": ""
+        },
+        {
+            "name": "Spicy Crab Roll",
+            "price": "$6.50",
+            "description": ""
+        },
+        {
+            "name": "Spider Roll",
+            "price": "$10.50",
+            "description": "Soft Shell Crab tempura w. cucumber & avacado sauce."
+        },
+        {
+            "name": "Spicy Scallop Roll",
+            "price": "$9.95",
+            "description": "w/ Avacado"
+        },
+        {
+            "name": "King Crab Roll",
+            "price": "$9.95",
+            "description": "w/ avacado & spicy mayo"
+        },
+        {
+            "name": "Alaska Roll",
+            "price": "$7.50",
+            "description": "Salmon, cucumber & avacado with seaweed out."
+        },
+        {
+            "name": "Boston Roll",
+            "price": "$7.50",
+            "description": "Shrimp, lettuce & mayo with seaweed out."
+        },
+        {
+            "name": "Philedelphia Roll",
+            "price": "$7.50",
+            "description": "Smoked Salmon, cucumber & creme cheese."
+        },
+        {
+            "name": "Futo Maki Roll",
+            "price": "$8.50",
+            "description": "Crabmeat, tamago, pickle, cucumber & caviar."
+        },
+        {
+            "name": "Spicy Octupus Roll",
+            "price": "$7.00",
+            "description": "w/ Cucumber"
+        },
+        {
+            "name": "Rock N Roll",
+            "price": "$7.00",
+            "description": "Spicy Tuna, Avacado, and Caviar."
+        },
+        {
+            "name": "Lobster Salad Roll",
+            "price": "$8.00",
+            "description": "w/ Avacado"
+        },
+        {
+            "name": "Lobster Salad Roll ",
+            "price": "$8.00",
+            "description": "w/ Mango"
+        }
+    ]
+}
