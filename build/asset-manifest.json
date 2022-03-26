@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51a61ba5.css",
+    "main.js": "/static/js/main.4c639021.js",
+    "static/js/787.46d64f1d.chunk.js": "/static/js/787.46d64f1d.chunk.js",
+    "static/media/maps location.PNG": "/static/media/maps location.a3a40628c2910c56e724.PNG",
+    "static/media/sushiboat.jpg": "/static/media/sushiboat.23d4366033d4b0fa7c62.jpg",
+    "static/media/tokyo_logo.jpg": "/static/media/tokyo_logo.5425a738f5f0c51cb7bc.jpg",
+    "static/media/about_pic.jpg": "/static/media/about_pic.ab9bfff8cbcbc85bef8d.jpg",
+    "index.html": "/index.html",
+    "main.51a61ba5.css.map": "/static/css/main.51a61ba5.css.map",
+    "main.4c639021.js.map": "/static/js/main.4c639021.js.map",
+    "787.46d64f1d.chunk.js.map": "/static/js/787.46d64f1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a61ba5.css",
+    "static/js/main.4c639021.js"
+  ]
+}
