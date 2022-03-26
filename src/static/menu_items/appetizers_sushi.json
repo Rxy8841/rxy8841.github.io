@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "name": "Cheese Crabstick",
+            "price": "$120",
+            "description": "Cream cheese, spicy mayo & sauce "
+        },
+        {
+            "name": "Sunomono",
+            "price": "$11.50",
+            "description": "Sashimi and cucumber with ponzu sauce"
+        },
+        {
+            "name": "Tiger's Eye",
+            "price": "$11.50",
+            "description": "Salmon wrapped with squid"
+        },
+        {
+            "name": "Avacado Boat",
+            "price": "$11.50",
+            "description": "Chunk tuna / salmon & sauce on avacado"
+        },
+        {
+            "name": "Marinated Baby Octupus",
+            "price": "$11.50",
+            "description": "w/ spicy mayo and & cucumber"
+        },
+        {
+            "name": "Tako Su / Kani Su",
+            "price": "$10/$8",
+            "description": "Octupus / Crabstick with cucumber in a light vinafrette sauce"
+        },
+        {
+            "name": "Tuna Tataki",
+            "price": "$12.50",
+            "description": "Sliced Seared Tuna with special sauce"
+        },
+        {
+            "name": "Tuna Flower Martini",
+            "price": "$13.50",
+            "description": ""
+        },
+        {
+            "name": "Tuna Wasabi Rose",
+            "price": "$12.50",
+            "description": ""
+        },
+        {
+            "name": "Tuna or Samlmon Tartar",
+            "price": "$11.50",
+            "description": "Comes with avacado and chef's special sauce"
+        },
+        {
+            "name": "Salmon Temptation",
+            "price": "$11.50",
+            "description": "Thin sliced salmon with cucumber and sauce"
+        },
+        {
+            "name": "Yellowtail Jalapeno",
+            "price": "$12.50",
+            "description": ""
+        }
+    ]
+}

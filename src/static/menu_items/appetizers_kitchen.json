@@ -1,0 +1,69 @@
+{
+    "items": [
+        {
+            "name": "Age Tofu",
+            "price": "$7",
+            "description": "Deep fried bean curd with sauce  (6 pieces) "
+        },
+        {
+            "name": "Edamame",
+            "price": "$5.50",
+            "description": "Steamed salted soy bean with pod"
+        },
+        {
+            "name": "Harumaki",
+            "price": "$5",
+            "description": "Fried Japanese vegetable spring rolls  (4 pieces)"
+        },
+        {
+            "name": "Croquette",
+            "price": "$6.50",
+            "description": "Fried vegetable patty  (3 pieces)"
+        },
+        {
+            "name": "Shumai",
+            "price": "$5.50",
+            "description": "Steamed / fried mini shrimp dumplings"
+        },
+        {
+            "name": "Gyoza",
+            "price": "$5.50",
+            "description": "Pan fried pork dumplings"
+        },
+        {
+            "name": "Yasai Gyoza",
+            "price": "$5.50",
+            "description": "Pan fried vergetable dumplings"
+        },
+        {
+            "name": "Mixed Oshinko",
+            "price": "$6.50",
+            "description": "Japanese mixed pickles"
+        },
+        {
+            "name": "Kimichi",
+            "price": "$6.50",
+            "description": "Korean spicy napa vegetable"
+        },
+        {
+            "name": "Yakitori",
+            "price": "$8.50",
+            "description": "Grilled chicken on skewer  (3 pieces)"
+        },
+        {
+            "name": "Tatsuta Age",
+            "price": "$8.50",
+            "description": "Ponko chicken w. spicy mayo"
+        },
+        {
+            "name": "Assorted Veg. Tempura",
+            "price": "$7.50",
+            "description": "Vegetable fried in tempura batter"
+        },
+        {
+            "name": "Chicken & Veg. Tempura",
+            "price": "$7.50",
+            "description": "Chicken & Vegetable fried in tempura batter"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "name": "Vegetable Tempura",
+            "price": "$13.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken & Veg Tempura",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Shrimp Tempura",
+            "price": "$15.50",
+            "description": ""
+        },
+        {
+            "name": "Shrimp & Veg Tempura",
+            "price": "$15.50",
+            "description": ""
+        },
+        {
+            "name": "Salmon Katsu",
+            "price": "$18.50",
+            "description": ""
+        },
+        {
+            "name": "Pork Katsu",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken Katsu",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Steak Katsu",
+            "price": "$17.50",
+            "description": "Battered and deep fried cutlet with tonkatsu sauce on side."
+        },
+        {
+            "name": "Tempura Combo",
+            "price": "$18.50",
+            "description": "2 Shrimp , 2 Crabstick, 2 Chicken and Vegs"
+        }
+    ]
+}

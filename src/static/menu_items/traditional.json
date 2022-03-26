@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "name": "Beef Yakiniku",
+            "price": "$18.50",
+            "description": ""
+        },
+        {
+            "name": "Chicken Curry",
+            "price": "$14.50",
+            "description": ""
+        },
+        {
+            "name": "Beef Curry",
+            "price": "$16.50",
+            "description": ""
+        },
+        {
+            "name": "Sweet & Chilli Sesame Chicken",
+            "price": "$14.50",
+            "description": "Crispy white meat chicken w/ onion"
+        },
+        {
+            "name": "Home Style Fish Fillet",
+            "price": "$18.50",
+            "description": "Light Battered fish fillet & assorted vegs w/ mild sauce"
+        },
+        {
+            "name": "Shrimp Curry",
+            "price": "$16.50",
+            "description": "With Potatoes, onion, and carrots served with rich brown Japanese curry sauce."
+        },
+        {
+            "name": "Chicken Yakiniku",
+            "price": "$14.50",
+            "description": "Beef or chicken, onion, scalliuon, mushroom, and sesame with special sauce."
+        },
+        {
+            "name": "Mixed Vegetables",
+            "price": "$13.50",
+            "description": "Broccoli, carrot mushroom, onion, and zucchini (Add chicken, shrimp, squid ($2, $4, $5))"
+        }
+    ]
+}

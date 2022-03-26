@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "name": "Miso Soup",
+            "price": "$3",
+            "description": "Tofu, seaweed, and scallion in miso paste."
+        },
+        {
+            "name": "Osumashi Soup",
+            "price": "$2.50",
+            "description": "Clear soup with scallion and mushroom."
+        },
+        {
+            "name": "Vegetable Soup",
+            "price": "$6.00",
+            "description": "Assorted fresh vegetable with clear broth."
+        },
+        {
+            "name": "House Seafood Soup",
+            "price": "$11.00",
+            "description": "Vegetable, shrimp, scallop, and crabstick."
+        },
+        {
+            "name": "Fried Rice",
+            "price": "$7.50",
+            "description": "(Add Chicken, Beef, Shrimp) $3/$4/$5 more."
+        },
+        {
+            "name": "White Rice",
+            "price": "$2.00",
+            "description": ""
+        },
+        {
+            "name": "Brown Rice",
+            "price": "$2.50",
+            "description": ""
+        },
+        {
+            "name": "Sushi Sticky Rice",
+            "price": "$3.00",
+            "description": ""
+        },
+        {
+            "name": "Teriyaki Sauce",
+            "price": "$4.50",
+            "description": "(6 oz) of homemade teriyaki sauce"
+        },
+        {
+            "name": "Ginger Dressing",
+            "price": "$4.50",
+            "description": "(6 oz) of homade ginger dressing"
+        }
+    ]
+}

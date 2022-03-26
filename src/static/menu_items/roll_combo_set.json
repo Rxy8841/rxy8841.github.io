@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "name": "Maki Combo A",
+            "price": "$16.50",
+            "description": "California Roll, Tuna Roll, Salmon Roll (18 pcs)"
+        },
+        {
+            "name": "Maki Combo B",
+            "price": "$17.50",
+            "description": "Spicy Tuna Roll, Salmon + Avacado Roll, Yellowtail Roll (18 pcs)"
+        },
+        {
+            "name": "Maki Combo C",
+            "price": "$17.50",
+            "description": "Spicy Tuna Roll, Spicy Salmon Roll, Spicy California Roll (18 pcs)"
+        },
+        {
+            "name": "Maki Combo D",
+            "price": "$15.50",
+            "description": "Avacado + Cucumber Roll, Sweet Potato Roll, Inari Roll (18 pcs)"
+        },
+        {
+            "name": "Maki Combo E",
+            "price": "$19.50",
+            "description": "Tempura Maki, Rock N Roll, Spicy Salmon Roll (17 pcs)"
+        },
+        {
+            "name": "Maki Combo F",
+            "price": "$23.50",
+            "description": "Spicy Tuna Roll, Eel Avacado Roll / Sushi: 2pcs (Eel, Tuna, Salmon)"
+        }
+    ]
+}

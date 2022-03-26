@@ -1,0 +1,99 @@
+{
+    "items": [
+        {
+            "name": "Avacado Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Cucumber Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Oshinko Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Kimchi Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Inari Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Seaweek Salad Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Sweet Potato Temp Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Eggplant Temp Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Asparagus Temp Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "Banana Temp Roll",
+            "price": "$5.00",
+            "description": ""
+        },
+        {
+            "name": "A.A.C Roll",
+            "price": "$6.00",
+            "description": "Avacado, asparagus and Cucumber roll"
+        },
+        {
+            "name": "Peanut & Avacado Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Mangp & Avacado Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Cucumber & Avacado Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Cucumber & Carrot Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "CC & Asparagus Roll",
+            "price": "$6.00",
+            "description": "Creme Cheese and Asparagus"
+        },
+        {
+            "name": "Crispy Onion & Avacado Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Kampyo & Avacado Roll",
+            "price": "$6.00",
+            "description": ""
+        },
+        {
+            "name": "Vegetable Futo Maki",
+            "price": "$6.00",
+            "description": "Assorted vegs & pickles wrapped"
+        }
+    ]
+}
